@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-💻-purple" />
   <img src="https://img.shields.io/badge/Cyber_Security-🛡️-blueviolet" />
-  <img src="https://img.shields.io/badge/Blockchain-Enthusiast-black" />
   <img src="https://img.shields.io/badge/Status-Active-green" />
   <img src="https://img.shields.io/badge/Location-India-lightgrey" />
 </p>
@@ -11,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" height="150"/>
+  <img src="https://media.giphy.com/media/Yt0TtZTJDEwMQ/giphy.gif" width="300" height="150" />
 </div>
 
 ## 👨‍💻 About Me
@@ -103,6 +102,7 @@ In my free time, I enjoy:
 
 ## 💡 Fun Facts
 
+> **"You either die a hero, or you live long enough to see yourself become the villain."** – **Harvey Dent**  
 - I believe in the power of **open-source contributions** and love collaborating with others.
 - My passion for **cryptography** and **CTF** keeps me constantly exploring new ideas and projects.
 - I’m an advocate for **ethical hacking** and **cybersecurity awareness**.

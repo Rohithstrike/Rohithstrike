@@ -11,7 +11,7 @@
 
 <div align="center">
   <h3>🦇 "Not Everything. Not Yet." 🦇</h3>
-  <img src="https://giffiles.alphacoders.com/220/220245.gif" width="500" height="250" />
+  <img src="assets/220245.gif" width="500" height="250" />
 </div>
 
 

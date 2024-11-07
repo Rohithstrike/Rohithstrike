@@ -39,6 +39,9 @@ Currently, I’m:
 - ![Wireshark](https://img.shields.io/badge/Wireshark-1676C5?logo=wireshark&logoColor=white)
 - ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C99?logo=kali-linux&logoColor=white)
 - ![Metasploit](https://img.shields.io/badge/Metasploit-4E4D45?logo=metasploit&logoColor=white)
+- ![Burp Suite](https://img.shields.io/badge/Burp_Suite-6E8B3B?logo=burpsuite&logoColor=white)
+- ![Nmap](https://img.shields.io/badge/Nmap-00A1D6?logo=nmap&logoColor=white)
+- ![Snort](https://img.shields.io/badge/Snort-CC0000?logo=snort&logoColor=white)
 
 ---
 
@@ -46,6 +49,8 @@ Currently, I’m:
 Here are a few highlights of my work:
 - **🔐 Shamir's Secret Sharing Implementation**: A cryptographic project aimed at enhancing data security using Shamir's Secret Sharing Algorithm.
 - **📈 Threat Analysis Tools**: Contributing to internal tools at **Sophos** to identify and mitigate potential cybersecurity threats.
+- **🔐 Caesar Cipher**: A cryptographic project built with Python. Check it out [here](https://rohithstrike.github.io/Caesar-Cipher/).
+- **🚀 Project Base-X**: A web-based project focusing on threat analysis and security protocols. Visit [here](https://project-base-x.onrender.com/).
 
 ---
 
@@ -73,17 +78,17 @@ In my free time, I enjoy:
 
 ## 📫 Get In Touch
 
-- 📧 **Email**: [rm7293@srmist.edu.in](mailto:rm7293@srmist.edu.in)
 - 💬 **Discord**: [mrrobot](https://discord.com/users/8148935208)
 - 🌐 **GitHub**: [@Rohithstrike](https://github.com/Rohithstrike)
-- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rohitb)
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rohith5803/)
+- 📧 **Email**: rohith3085@gmail.com
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohithstrike&show_icons=true&theme=tokyonight&hide_title=true" alt="Rohith B's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohithstrike&show_icons=true&theme=radical&hide_title=true" alt="Rohith B's GitHub Stats" />
 </p>
 
 ---
@@ -105,5 +110,5 @@ In my free time, I enjoy:
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Rohithstrike" alt="visitor badge" />
+  <img src="https://rohithstrike.github.io/work-and-story/" alt="portfolio badge" />
 </p>

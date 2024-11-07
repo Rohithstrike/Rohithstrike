@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/220/220245.gif" width="300" height="200" />
+  <img src="/Users/rohith/VSCODE/Rohithstrike/assets" width="300" height="200" />
 </div>
 
 ## 👨‍💻 About Me

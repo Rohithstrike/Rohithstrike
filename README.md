@@ -10,8 +10,11 @@
 ---
 
 <div align="center">
-  <img src="/Users/rohith/VSCODE/Rohithstrike/assets" width="300" height="200" />
+  <h3>🦇 "Not Everything. Not Yet." 🦇</h3>
+  <img src="https://giffiles.alphacoders.com/220/220245.gif" width="500" height="250" />
 </div>
+
+
 
 ## 👨‍💻 About Me
 I'm just a regular dude, vibing as a **Cyber Security student**, hacking my way through the digital world. I’m all about that tech life, learning new tricks, and keeping the web a safer place, one exploit at a time. Not sure who’s even reading this, or if I'll remember dropping this here in the future, but for now, this is me. Chillin', growing, and aiming to level up in the cyber game.
@@ -115,5 +118,7 @@ In my free time, I enjoy:
 ---
 
 <p align="center">
-  <a href="https://rohithstrike.github.io/work-and-story/"><img src="https://img.shields.io/badge/Check_Out_My_Portfolio-yellowgreen?style=flat-square&logo=github&logoColor=white" alt="Portfolio Badge" /></a>
+  <a href="https://rohithstrike.github.io/work-and-story/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Journey-1E90FF?style=for-the-badge&logo=bookmeter&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>

@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/220/220245.gif" width="300" height="150" />
+  <img src="https://giffiles.alphacoders.com/220/220245.gif" width="300" height="200" />
 </div>
 
 ## 👨‍💻 About Me
@@ -41,6 +41,7 @@ Currently, I’m:
 - ![Burp Suite](https://img.shields.io/badge/Burp_Suite-6E8B3B?logo=burpsuite&logoColor=white)
 - ![Nmap](https://img.shields.io/badge/Nmap-00A1D6?logo=nmap&logoColor=white)
 - ![Snort](https://img.shields.io/badge/Snort-CC0000?logo=snort&logoColor=white)
+- ![WiFi Pineapple](https://img.shields.io/badge/WiFi_Pineapple-003D7C?logo=wifi&logoColor=white)
 
 ---
 
@@ -58,6 +59,7 @@ Here are a few highlights of my work:
 I am currently working on:
 - **Reverse Engineering**: Diving deeper into disassembling and analyzing code to understand vulnerabilities.
 - **Advanced Penetration Testing**: Enhancing my skills in exploiting vulnerabilities and testing the security of systems.
+- **Threat Intelligence**: Gathering and analyzing cybersecurity data to predict and prevent attacks.
 
 ---
 
@@ -72,6 +74,8 @@ I am currently working on:
 In my free time, I enjoy:
 - 🚴 Exploring new biking trails and outdoor activities.
 - 🎧 Listening to podcasts on **technology**, **cybersecurity**, and **CTF**.
+- 🎮 Gaming, with a focus on strategy and open-world games.
+- 💡 Experimenting with new technologies and developing side projects.
 
 ---
 
@@ -97,12 +101,13 @@ In my free time, I enjoy:
 - **Improve Threat Detection**: Master the use of AI/ML in threat detection systems.
 - **Blockchain Development**: Learn Solidity and dive deeper into **Ethereum** and **Solana** blockchain development.
 - **Cybersecurity Research**: Focus on **penetration testing** and **vulnerability assessments**.
+- **Incident Response**: Master incident handling and mitigation strategies.
 
 ---
 
 ## 💡 Fun Facts
 
-> **"You either die a hero, or you live long enough to see yourself become the villain."** – **Harvey Dent**  
+> **"I wear a mask. I disguise who I am. But the truth is, I’m Batman."** – **Bruce Wayne**  
 - I believe in the power of **open-source contributions** and love collaborating with others.
 - My passion for **cryptography** and **CTF** keeps me constantly exploring new ideas and projects.
 - I’m an advocate for **ethical hacking** and **cybersecurity awareness**.
@@ -110,5 +115,5 @@ In my free time, I enjoy:
 ---
 
 <p align="center">
-  <img src="https://rohithstrike.github.io/work-and-story/" alt="portfolio badge" />
+  <a href="https://rohithstrike.github.io/work-and-story/"><img src="https://img.shields.io/badge/Check_Out_My_Portfolio-yellowgreen?style=flat-square&logo=github&logoColor=white" alt="Portfolio Badge" /></a>
 </p>

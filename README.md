@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Yt0TtZTJDEwMQ/giphy.gif" width="300" height="150" />
+  <img src="https://giffiles.alphacoders.com/220/220245.gif" width="300" height="150" />
 </div>
 
 ## 👨‍💻 About Me

@@ -1,20 +1,18 @@
 <h1 align="center">Hi there, I'm Rohith ! 👋</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer-💻-purple" />
-  <img src="https://img.shields.io/badge/Cyber_Security-🛡️-blueviolet" />
-  <img src="https://img.shields.io/badge/Status-Active-green" />
-  <img src="https://img.shields.io/badge/Location-India-lightgrey" />
-</p>
+<p align="center">  
+  <img src="https://img.shields.io/badge/Role-💻_Developer-purple?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/Expertise-🛡️_Cyber_Security-blueviolet?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/Status-✅_Currently_Active-green?style=for-the-badge" />  
+</p>  
 
----
+
 
 <div align="center">
   <h3>🦇 "Not Everything. Not Yet." 🦇</h3>
   <img src="assets/220245.gif" width="600" height="250" alt="Cyber Animation"/>
 </div>
 
----
 
 ## 👨‍💻 About Me
 
@@ -28,6 +26,23 @@ Currently, I’m:
 
 ---
 ## 🛠 Tech Stack & Expertise
+
+
+<div align="center">
+
+### 🛡️ Cybersecurity Tools
+
+- ![Wireshark](https://img.shields.io/badge/Wireshark-1676C5?logo=wireshark&logoColor=white)
+- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C99?logo=kali-linux&logoColor=white)
+- ![Metasploit](https://img.shields.io/badge/Metasploit-4E4D45?logo=metasploit&logoColor=white)
+- ![Burp Suite](https://img.shields.io/badge/Burp_Suite-6E8B3B?logo=burpsuite&logoColor=white)
+- ![Nmap](https://img.shields.io/badge/Nmap-00A1D6?logo=nmap&logoColor=white)
+- ![Snort](https://img.shields.io/badge/Snort-CC0000?logo=snort&logoColor=white)
+- ![WiFi Pineapple](https://img.shields.io/badge/WiFi_Pineapple-003D7C?logo=wifi&logoColor=white)
+- ![OpenVAS](https://img.shields.io/badge/OpenVAS-008000?logo=openvas&logoColor=white)
+- ![OSINT Tools](https://img.shields.io/badge/OSINT-Tools-blue)
+
+</div>
 
 <div align="center">
 
@@ -43,22 +58,6 @@ Currently, I’m:
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-
-</div>
-
-<div align="center">
-
-### 🛡️ Cybersecurity Tools
-
-- ![Wireshark](https://img.shields.io/badge/Wireshark-1676C5?logo=wireshark&logoColor=white)
-- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C99?logo=kali-linux&logoColor=white)
-- ![Metasploit](https://img.shields.io/badge/Metasploit-4E4D45?logo=metasploit&logoColor=white)
-- ![Burp Suite](https://img.shields.io/badge/Burp_Suite-6E8B3B?logo=burpsuite&logoColor=white)
-- ![Nmap](https://img.shields.io/badge/Nmap-00A1D6?logo=nmap&logoColor=white)
-- ![Snort](https://img.shields.io/badge/Snort-CC0000?logo=snort&logoColor=white)
-- ![WiFi Pineapple](https://img.shields.io/badge/WiFi_Pineapple-003D7C?logo=wifi&logoColor=white)
-- ![OpenVAS](https://img.shields.io/badge/OpenVAS-008000?logo=openvas&logoColor=white)
-- ![OSINT Tools](https://img.shields.io/badge/OSINT-Tools-blue)
 
 </div>
 
@@ -100,12 +99,10 @@ In my free time, I enjoy:
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithstrike&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Rohithstrike&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithstrike&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 
 
 ## 🌟 Daily Motivation
@@ -113,6 +110,7 @@ In my free time, I enjoy:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote" />
 </p>
+
 
 
 ## 🔐 Cybersecurity Feed

@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Rohith ! 👋</h1>
 
 <p align="center">  
-  <img src="https://img.shields.io/badge/Role-💻_Developer-purple?style=for-the-badge" />  
-  <img src="https://img.shields.io/badge/Expertise-🛡️_Cyber_Security-blueviolet?style=for-the-badge" />  
-  <img src="https://img.shields.io/badge/Status-✅_Currently_Active-green?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/Role-👨‍💻_Threat_Analyst-purple?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/Exploring-🧠_Cyber_Security-blueviolet?style=for-the-badge" />  
+  <img src="https://img.shields.io/badge/Passion-💡_Technology_&_Coding-orange?style=for-the-badge" />  
 </p>  
 
 
